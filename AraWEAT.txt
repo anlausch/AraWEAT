@@ -1,0 +1,50 @@
+Test Number: 1
+TI	البتونيا	الفاوانيا	شجرة المغنولية	زهرة	صفير	عشب الحوذان	الآذريون	نفل	خشخاش	gladiola	قرنفل	السحلب	توليب	أزهار النجمية	زنبق	زعفران	بنفسجي	الزينية	زهرة الثالوث	الجريس	أرجواني	نرجس	أقحوان	قزحية	أزالية	
+T2	حريش	صرصور	سوسة الفاكهة	نملة	نحلة	العتة	كريكيت	عنكبوت ذئبي	خنفساء	ناموس	حشرة الفراش	دبور	ذبابة الخيل	ذبابة سوداء	بعوض	جراد	عنكبوت	برغوث	يرقة	يطير	يعسوب	نمل أبيض	
+A1	جنة	ضحك	دبلوم	مخلص	مخلصة	صادق	حرية	سرور	سلام	صحة	هدية	عناق	يشجع	معجزة	صديق	شرف	الجنة	عائلة	محظوظ	الماس	شروق الشمس	سعيد	محظوظة	لطيف	قوس قزح	صديقة	عطلة	حب	
+A2	إساءة	كراهية	الاعتداءات	سرطان	قيء	تحطم	كارثة	نتن	حادث	سكرة	قتل	موت	تلوث	سم	فاسد	طلاق	غثيان	رجس	مأساة	سجن	بشع	حزن	فقر	
+Test Number: 2
+TI	ساكسفون	بيانو	مندولين	مزمار	كمان	عود	تشيلو	توبا	مزمار القربة	طبل	القيثارة	الباسون	جرس	بونغو	بوق	البانجو	هارمونيكا	قيثارة	غيتار	الترومبون	
+T2	سوط	بندقية	صاروخ	فأس	غاز مسيل للدموع	خنجر	النادي	بندقية الصيد	سكين	سيف	خزان	مدفع	مسدس	ديناميت	صولجان	شفرة	سهم	رمح	قنبلة	مقلاع	قنبلة يدوية	سلاح ناري	
+A1	جنة	ضحك	دبلوم	مخلص	مخلصة	صادق	حرية	سرور	سلام	صحة	هدية	عناق	يشجع	معجزة	صديق	شرف	الجنة	عائلة	محظوظ	الماس	شروق الشمس	سعيد	محظوظة	لطيف	قوس قزح	صديقة	عطلة	حب	
+A2	إساءة	كراهية	الاعتداءات	سرطان	قيء	تحطم	كارثة	نتن	حادث	سكرة	قتل	موت	تلوث	سم	فاسد	طلاق	غثيان	رجس	مأساة	سجن	بشع	حزن	فقر	
+Test Number: 3
+TI	Peggy	Wendy	Katie	Amanda	Roger	Amber	Betsy	Rachel	Donna	Hank	Sara	Chip	Megan	Alan	Adam	Harry	Stephen	Wilbur	Paul	Frank	Justin	Ian	Fred	Josh	Ryan	Nancy	Todd	Brad	Courtney	Kristin	Bobbie-Sue	Melanie	Jed	Stephanie	Heather	Meredith	Brandon	Colleen	Shannon	Crystal	Greg	Lauren	Peter	Jonathan	Ellen	Emily	Sue-Ellen	Andrew	Jack	Matthew	
+T2	Lerone	Malika	Aiesha	Shavonn	Lavon	Shaniqua	Lakisha	Marcellus	Latoya	Wardell	Rasaan	Terrence	Tyree	Tyrone	Jasmine	Ebony	Everol	Shereen	Alphonse	Terryl	Latonya	Tameisha	Leroy	Nichelle	Tanisha	Tia	Malik	Lamar	Jerome	Darnell	Lashelle	Percell	Yvette	Temeka	Lionel	Teretha	Tawanda	Theo	Lamont	Jamel	Lashandra	Tashika	Shanise	Torrance	Rashaun	Latisha	Alonzo	Deion	Sharise	Yolanda	
+A1	جنة	ضحك	دبلوم	مخلص	مخلصة	صادق	حرية	سرور	سلام	صحة	هدية	عناق	يشجع	معجزة	صديق	شرف	الجنة	عائلة	محظوظ	الماس	شروق الشمس	سعيد	محظوظة	لطيف	قوس قزح	صديقة	عطلة	حب	
+A2	إساءة	كراهية	الاعتداءات	سرطان	قيء	تحطم	كارثة	نتن	حادث	قتل	موت	تلوث	سم	فاسد	قنبلة	طلاق	غثيان	رجس	مأساة	سجن	شر	بشع	حزن	فقر	
+Test Number: 4
+TI	Greg	Geoffrey	Neil	Brendan	Meredith	Anne	Brett	Jill	Jay	Allison	Kristen	Sarah	Carrie	Emily	Todd	Matthew	Laurie	Brad	
+T2	Keisha	Tamika	Rasheed	Ebony	Latoya	Lakisha	Jamal	Kareem	Hakim	Jermaine	Darnell	Leroy	Aisha	Tremayne	Latonya	Kenya	Tyrone	Tanisha	
+A1	جنة	ضحك	دبلوم	مخلص	مخلصة	صادق	حرية	سرور	سلام	صحة	هدية	عناق	يشجع	معجزة	صديق	شرف	الجنة	عائلة	محظوظ	الماس	شروق الشمس	سعيد	محظوظة	لطيف	قوس قزح	صديقة	عطلة	حب	
+A2	إساءة	كراهية	الاعتداءات	سرطان	قيء	تحطم	كارثة	نتن	حادث	قتل	موت	تلوث	سم	فاسد	قنبلة	طلاق	غثيان	رجس	مأساة	سجن	شر	بشع	حزن	فقر	
+Test Number: 5
+TI	Greg	Geoffrey	Neil	Brendan	Meredith	Anne	Brett	Jill	Jay	Allison	Kristen	Sarah	Carrie	Emily	Todd	Matthew	Laurie	Brad	
+T2	Keisha	Tamika	Rasheed	Ebony	Latoya	Lakisha	Jamal	Kareem	Hakim	Jermaine	Darnell	Leroy	Aisha	Tremayne	Latonya	Kenya	Tyrone	Tanisha	
+A1	رائع	سلام	فرح	صديقة	ضحك	سعيد	صديق	حب	سرور	
+A2	فشل	حرب	سيئ	رهيب	شر	سكرة	مقرف	
+Test Number: 6
+TI	Greg	Kevin	Mike	John	Paul	Bill	Jeff	Steve	
+T2	Donna	Diana	Kate	Joan	Sarah	Ann	Lisa	Amy	
+A1	مكتب	مؤسسة	راتب	أعمال	مهنة	إدارة	محترفين	تنفيذي	
+A2	منزل	زواج	الأطفال	عائلة	بنات عم	حفل زواج	الآباء	أبناء عم	أقارب	
+Test Number: 7
+TI	الهندسة	الرياضيات	معادلات	تحليل	حساب	إضافة	أعداد	الجبر	
+T2	نحت	رواية	رقص	سمفونية	الأدب	دراما	الشعر	فن	
+A1	رجل	صبي	الذكر	ابن	له	هو	شقيق	
+A2	هي	فتاة	ابنة	لها	نساء	أنثى	أخت	
+Test Number: 8
+TI	NASA	تقنية	علم	فلك	Einstein	كيمياء	تجربة	فيزيائية	
+T2	رواية	رقص	سمفونية	الأدب	دراما	الشعر	Shakespeare	فن	
+A1	عم	ابن	شقيق	له	هو	جد	الآب	
+A2	جدة	هي	ابنة	لها	عمة	أم	أخت	
+Test Number: 9
+TI	تعيس	ميئوس منه	مكتئب	حزين	كئيب	مدمع	ميئوس منها	
+T2	سرطان	إنفلونزا	مرض	فيروس	
+A1	غير مستقر	زائل	عابر	المدى القصير	عرضي	متغير	نبذة	
+A2	مستقر	مستمر	إلى الأبد	دائما	فترة طويلة	ثابت	مزمن	
+Test Number: 10
+TI	Joey	Billy	Cindy	Kristy	Eric	Tiffany	Michelle	Brad	
+T2	Wilbert	Gertrude	Agnes	Mortimer	Bernice	Edgar	Ethel	Cecil	
+A1	رائع	سلام	فرح	صديقة	ضحك	سعيد	صديق	حب	سرور	
+A2	فشل	حرب	سيئ	رهيب	شر	سكرة	مقرف	
